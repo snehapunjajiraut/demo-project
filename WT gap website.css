@@ -1,0 +1,106 @@
+body {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+.B img {
+    width: 160px;
+    height: 130px;
+    border-radius: 25px;
+    float: left;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
+.B h1,
+h2,
+h3 {
+    color: white;
+}
+
+.A h4 {
+    float: left;
+    color: white;
+}
+
+.A h2 {
+    float: 20px;
+    color: white;
+}
+
+.Button {
+    background-color: gray;
+    color: white;
+}
+
+#Button1 {
+    margin: 12px;
+    padding: 10px 80px;
+    border-radius: 20px;
+}
+
+#Button2 {
+    margin: 12px;
+    padding: 10px 80px;
+    border-radius: 20px;
+}
+
+#Button3 {
+    margin: 12px;
+    padding: 10px 80px;
+    border-radius: 20px;
+}
+
+#Button4 {
+    margin: 12px;
+    padding: 10px 80px;
+    border-radius: 20px;
+}
+
+#Button5 {
+    margin: 12px;
+    padding: 10px 80px;
+    border-radius: 20px;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    padding: 30px 100px 30px 100px;
+    border-radius: 20px;
+    width: 30%;
+}
+
+#Esiot {
+    display: flex;
+    margin: 20px;
+    flex-direction: column;
+}
+
+#title {
+    text-align: center;
+    margin: 10px;
+}
+
+.ButtonES {
+    background-color: grey;
+    color: white;
+    margin: 3px;
+    font-size: 20px;
+    border-radius: 10px;
+    float: left;
+    width: 30%;
+    padding: 10px 80px;
+}
+
+footer {
+    text-align: center;
+    padding: 1vh;
+    background-color: rgb(247, 113, 113);
+    color: white;
+    margin-top: auto;
+}
